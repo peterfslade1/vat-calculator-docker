@@ -4,8 +4,12 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid orangered;
   padding: 10px;
+  font-weight: bold;
+  color: palevioletred;
+  
+
 }
 
 .header{
@@ -14,5 +18,5 @@
 
 body{
   padding: 10px;
-  background-color: antiquewhite;
+  background-color: green;
 }
